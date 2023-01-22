@@ -1,14 +1,14 @@
 # Hi there, I'm Nimesh Urkude
 
 
-- 💻  I’m a MERN Stack Web Developer, React Native Developer.
+- 🧔  I’m a MERN Stack Web Developer, React Native Developer.
 - 📚  Currently learning Machine Learning with Tensorflow.
-- 💪🏼 Future Goals : Work on Web3.
+- 🌏 Future Goals : Work on Web3.
 - 🎮 Gamer : My all-time favourite game is The Witcher 3.
 
 <br />
 
-<h2 align="center">Languages and Skills</h2>
+<h2 align="center">💻Languages and Skills</h2>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
